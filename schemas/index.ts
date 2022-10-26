@@ -20,6 +20,7 @@ const supportedLanguages = [
 export const schemaTypes = [
   {
     name: 'test',
+    title: 'Test',
     type: 'document',
     fields: [
       {

@@ -6,8 +6,8 @@ export default createConfig({
   name: 'default',
   title: 'The Night League',
 
-  projectId: 's81nmip2',
-  dataset: 'production',
+  projectId: "3754j8h9",
+  dataset: "production",
 
   plugins: [deskTool()],
 
